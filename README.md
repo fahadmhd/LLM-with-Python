@@ -17,3 +17,4 @@ For language translation tasks, you can consider models like MarianMT or T5. The
 ![my notebook](https://github.com/fahadmhd/LLM-with-Python/blob/main/Translation_English_Chinese.ipynb)
 ### conversation : facebook/blenderbot-400M-distill  https://huggingface.co/facebook/blenderbot-400M-distill
 ![my notebook](https://github.com/fahadmhd/LLM-with-Python/blob/main/chatbot.ipynb)
+![my notebook](https://github.com/fahadmhd/LLM-with-Python/blob/main/conversation.ipynb)
