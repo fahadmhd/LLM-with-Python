@@ -14,4 +14,6 @@ For language translation tasks, you can consider models like MarianMT or T5. The
 
 ## I worked on two Models: 
 ### Translation : Helsinki-NLP https://huggingface.co/Helsinki-NLP/opus-mt-en-zh
+![my notebook](https://github.com/fahadmhd/LLM-with-Python/blob/main/Translation_English_Chinese.ipynb)
 ### conversation : facebook/blenderbot-400M-distill  https://huggingface.co/facebook/blenderbot-400M-distill
+![my notebook](https://github.com/fahadmhd/LLM-with-Python/blob/main/chatbot.ipynb)
